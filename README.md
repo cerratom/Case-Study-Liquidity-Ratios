@@ -1,6 +1,6 @@
 # Case Study: Using a custom python module to evaluate Apple Inc. liquidity ratio for the last 10 years.
 
-In the following exercise, we will use a custom python module to measure Apple's ability to pay its short term obligations. The objectives of this mini-project are:
+In the following exercise, we will use a custom python module to measure Apple Inc.'s ability to pay its short term obligations. The objectives of this mini-project are:
 
 - To apply the custom python module create in the previous article to real-world data.
 - To practice data manipulation with Python using the panda's library.
