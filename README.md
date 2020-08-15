@@ -31,4 +31,4 @@ The steps to be followed to complete this task are:
     - Create an Excel file containing a table with the liquidity ratios.
     - Create the graphs to display Apple's liquidity ratios for the past years.
 
-You can read the full article [here](http://notaprogrammer.com) 
+You can read the full article [here](https://notaprogrammer.com/liquidity-ratios-a-practical-exercise-python/) 
